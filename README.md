@@ -1,3 +1,3 @@
 #spring-boot
 
-Demo project for Spring Boot Multi Module
+Demo project for Spring Boot
