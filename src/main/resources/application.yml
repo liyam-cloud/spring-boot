@@ -1,5 +1,10 @@
+demo:
+  name: "Spring Boot"
+  welcome: "Welcome to ${demo.name} !"
 server:
   port: 8081
-demo:
-  name: Spring Boot
-  welcome: "Welcome to ${demo.name} !"
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
