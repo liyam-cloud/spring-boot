@@ -2,3 +2,4 @@ server:
   port: 8081
 demo:
   name: Spring Boot
+  welcome: "Welcome to ${demo.name} !"
